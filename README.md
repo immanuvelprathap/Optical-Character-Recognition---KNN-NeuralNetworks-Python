@@ -1,4 +1,4 @@
-# Optical-Character-Recognition-MNIST-Fashion-MNIST-KNN-Python
+# Optical-Character-Recognition-MNIST-Fashion-MNIST-KNN-NeuralNetworks-Python
 
 <!-- [![GitHub stars]()
 [![Gitter] ()
