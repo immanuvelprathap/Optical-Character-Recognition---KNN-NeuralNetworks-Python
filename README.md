@@ -26,9 +26,10 @@ Here's an example of how the data looks (*each class takes three-rows*):
 [<img target="_blank" src="https://sentry-brand.storage.googleapis.com/sentry-logo-black.png" width=270>](https://www.sentry.io/) [<img target="_blank" src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png" width=100>](https://jquery.com/) -->
 
 ## Team
-[![Immanuvel Prathap](https://avatars.githubusercontent.com/u/68032323?v=4)](https://immanuvelprathap.in/) |
--|
-[Immanuvel Prathap's Website - Click Here!](https://immanuvelprathap.in/) |)
+
+<img target="_blank" src="https://avatars.githubusercontent.com/u/68032323?v=4" width=200> 
+
+[Immanuvel Prathap's Website - Click Here!](https://immanuvelprathap.in/)
 
 ## License
 
